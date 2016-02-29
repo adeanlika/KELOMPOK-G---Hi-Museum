@@ -8,8 +8,8 @@
 <body>
 
 <!-- Header -->
-<header class="center">
-  <div class="center">
+<header class="header-center">
+  <div class="header-center">
   <h4>Welcome To Our Company</h4>
   <h1 class="header">INI PROFIL COMPANY</h1>
     <div class="padding">
